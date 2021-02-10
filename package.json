@@ -1,0 +1,15 @@
+
+{
+  "name": "tfx-police-cad",
+  "description": "This is a easy to setup and use police server CAD. Includes a signup/login for both Civilians and Police Officers. Also this is mobile friendly. Built for GTA V's Modding framework: FiveM.",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "14"
+  },
+  "author": "TheRealToxicDev",
+  "dependencies": {}
+}
